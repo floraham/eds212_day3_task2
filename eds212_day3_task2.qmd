@@ -1,0 +1,10 @@
+---
+title: "eds212_day3_task2-codingpractice"
+format: html
+editor: visual
+---
+
+```{r}
+vec_a <- c(1,6)
+vec_b <- c(2,4)
+```
